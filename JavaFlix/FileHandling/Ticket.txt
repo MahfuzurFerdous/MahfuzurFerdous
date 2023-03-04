@@ -1,0 +1,14 @@
+
+JavaFlix:
+Customer Name: Middat Ghani Fahim
+PhoneNumber : 01755941345
+Movie : The Dark Knight
+Timing : 2| Afternoon: 3:00 PM
+Price : $20
+
+JavaFlix:
+Customer Name: Bappi
+PhoneNumber : 01234567765
+Movie : The Godfather 
+Timing : 2| Afternoon: 3:00 PM
+Price : $20
